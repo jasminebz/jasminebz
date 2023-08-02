@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-An aspiring Data Analyst, I am looking to merge my passions for language, data, and communication. I have a special interest in Natural Language Processing, and using data-science tools to provide insights into solving real-world problems.
+As a data scientist with a passion for problem-solving, I am constantly seeking new ways to turn real-world data into actionable insights. My diverse background in linguistics, mathematics, and law allows me to approach problems from multiple angles. I am committed to bridging the gap between technical and non-technical stakeholders, using effective communication and intuitive visualizations to make complex topics simple.
 
 - 😄 Pronouns: She/Her
 - 👩‍🏫 Currently working as a Teacher with Le Wagon
